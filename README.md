@@ -49,7 +49,11 @@ Python3 + Flask + SocketIO + SQLAlchemy + MySQL
 
 ## 项目部署
 
-使用 pip 安装所需要的包，使用 PyCharm 启动 Fast-Chat-X-Server 服务
+使用 pip 安装所需要的包，使用 PyCharm 启动
+
+配置 Flask 服务器
+
+![image-20240827211331529](images/image-20240827211331529.png)
 
 ### 数据库服务
 
